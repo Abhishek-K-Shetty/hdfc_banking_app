@@ -1,2 +1,3 @@
 this is f1 first line
 this is actually stash line
+and here we are adding third line
